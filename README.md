@@ -46,7 +46,7 @@ def feature_interactions(df, continuous_features=[], categorical_features=[]):
 ## **Other**
 
 <a name="subplots-forloop"></a>
-### **Plot subplots with a for loop**
+### **[Plot subplots with a for loop](plot_subplots_forloop.py)**
 [##]::
 <details><summary>Click to view code</summary>
 <p>
@@ -74,7 +74,7 @@ plt.show()
 
 
 <a name="reduce-df-mem-usage"></a>
-### **Reduce dataframe memory usage**
+### **[Reduce dataframe memory usage](reduce_dataframe_memory_usage.py)**
 [##]::
 <details><summary>Click to view code</summary>
 <p>
@@ -113,7 +113,7 @@ def reduce_mem_usage(df, verbose=True):
 
 
 <a name="subfiles-time"></a>
-### **Save submission files with submission time as filename**
+### **[Save submission files with submission time as filename](subfiles_time.py)**
 [##]::
 <details><summary>Click to view code</summary>
 <p>
